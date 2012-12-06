@@ -61,9 +61,9 @@ param:
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
         user: unsame
         # tam kullanıcı adı (ör. Recai Oktaş)
-        fullname: Eyüp Yemez
+        fullname: Eyup Yemez
         # email adresi (ör. roktas@bil.omu.edu.tr)
-        email:usame.yemez@bil.omu.edu.tr
+        email: usame.yemez@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
         title: <a href="http://ondokuz.biz/">19</a> üyesi
         # GnuPG kısa parmak izi (ör. DEADBEEF)
@@ -71,7 +71,7 @@ param:
         # twitter adresi (ör. http://19.status.net/roktas)
         twitter: https://twitter.com/un_same
         # flick adresi (ör. http://flickr.com/photos/roktas)
-        flickr: http://flickr.com/photos/mengi
+        flickr: ~
         # facebook adresi (ör. http://facebook.com/roktas)
         facebook: http://www.facebook.com/eyupymz
         # özet akışı adresi (ör. http://feeds.feedburner.com/roktas)
